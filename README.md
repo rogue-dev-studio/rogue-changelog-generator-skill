@@ -4,7 +4,7 @@
 
 Transform git commit history into polished user-facing changelogs and release notes. Use when the user wants a CHANGELOG.md from a version tag or date range, weekly product updates, app store release notes, or Keep a Changelog formatted output with internal noise filtered out.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `changelog-generator`
 
 ## Install
